@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\projPOO_ex1\projPOO_ex1\bin\Debug\projPOO_ex1.exe.config
+C:\Users\aluno\source\repos\projPOO_ex1\projPOO_ex1\bin\Debug\projPOO_ex1.exe
+C:\Users\aluno\source\repos\projPOO_ex1\projPOO_ex1\bin\Debug\projPOO_ex1.pdb
+C:\Users\aluno\source\repos\projPOO_ex1\projPOO_ex1\obj\Debug\projPOO_ex1.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\projPOO_ex1\projPOO_ex1\obj\Debug\projPOO_ex1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\projPOO_ex1\projPOO_ex1\obj\Debug\projPOO_ex1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projPOO_ex1\projPOO_ex1\obj\Debug\projPOO_ex1.exe
+C:\Users\aluno\source\repos\projPOO_ex1\projPOO_ex1\obj\Debug\projPOO_ex1.pdb
